@@ -3,7 +3,11 @@ nomeM: Khajiit
 nomeF: Khajiit
 tipo: Aberração
 ---
-![[Khajiit.png]]
+![Khajiit](Khajiit.png)
+Os khajiit são como os humanos... exceto que são também como gatos. Gostam de brincar, adoram peixe cru e suas aparências são como as de um humano com características de gato.
+
+As características físicas de felinos que os khajiit herdam são: unhas/garras afiadas que podem retrair em seus dedos, orelhas de gato super alertas, sentido de balanço, oufato e até mesmo podem crescer bigodes de gato. Sua grande maioria tem um porte atlético devido à sua natureza ativa, e podem crescer pelos mais rápido que um humano.
+
 **Aumento no Valor de Habilidade.** Devido às suas diversas formas, o aumento no valor de habilidade é inteiramente dependente da sub-raça.
 
 **Idade.** Acredita-se que a vida dos Khajiit seja semelhante à dos humanos normais, enquanto outros acreditam que seja mais parecida com outros tipos de felinos. Eles atingem a idade adulta aos 16 anos e geralmente vivem entre 80 e 150 anos.

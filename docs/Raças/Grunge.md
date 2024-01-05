@@ -3,7 +3,9 @@ nomeM: Grunge
 nomeF: Grunge
 tipo: Aberração
 ---
-![[Grunge.png]]
+![Grunge](Grunge.png)
+Grunges são criaturas racionais anfíbias que têm descendência direta dos sapos, podendo inclusive se comunicar com outros anfíbios e até mesmo alguns répteis. São a única raça que não consegue se transformar em humano, e as que sofrem maior preconceito no continente. Algumas espécies de grunge são venenosas, e podem liberar um suco peçonhento pelos poros de suas peles. Possuem vantagem na água e desvantagem em ambientes secos, precisam sempre se hidratar.
+
 **Aumento no Valor de Habilidade.** Seu valor de Destreza aumenta em 2 e seu valor de Constituição aumenta em 1.
 
 **Idade.** Grunges amadurecem para a vida adulta em um único ano, mas são conhecidos por viverem até 50 anos.
