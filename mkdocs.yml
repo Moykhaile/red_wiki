@@ -2,25 +2,26 @@ site_name: obsidian-mkdocs template
 
 theme:
     name: 'material'
+    language:
+      language: pt-BR
+    logo: Logo.png
+    favicon: favicon.ico
+    features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.path
+    - navigation.indexes
+    - search.suggest
     palette:
-
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: pink
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: pink
-      accent: blue
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+      primary: teal
+      accent: cyan
+    font:
+      text: Poppins
+      
 
 # Extensions
 markdown_extensions:
@@ -51,14 +52,7 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
-  - blog
-  - rss:
-      match_path: blog/posts/.* 
-      date_from_meta:
-        as_creation: date
-      categories:
-        - categories
-        - tags
+  - offline
 
 extra_javascript:
   - javascripts/mathjax.js

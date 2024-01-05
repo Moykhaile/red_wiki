@@ -1,4 +1,4 @@
-# Obsidian Notes
+# Rebelião Em Discórdia
 
 Publish your public notes with MkDocs
 
