@@ -3,6 +3,7 @@ nomeM: Khenra
 nomeF: Khenra
 tipo: Aberração
 ---
+![[Khenra.png]]
 **Aumento no Valor de Habilidade.** Seu valor de Destreza aumenta em 2, e seu valor de Força aumenta em 1.
 
 **Idade.** Os khenra amadurecem rapidamente, atingindo a idade adulta em sua adolescência. Os iniciantes khenra geralmente são os mais jovens em uma prole, concluindo os rituais até o final da adolescência. Mesmo sem uma morte violenta, raramente vivem além dos 60 anos.

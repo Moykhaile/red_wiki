@@ -3,7 +3,7 @@ nomeM: Aviano
 nomeF: Aviana
 tipo: Aberração
 ---
-![Mulher Aviana](/Aviana.png)
+![[Aviana.png]]
 ## Aparência e características 
 Os avianos são pessoas que possuem características de pássaros, tendo, assim, muita diversidade em suas características e habilidades.
 Todos os avianos possuem asas, que variam de acordo com o pássaro que herdam, e podem se transformar, criando um bico no seus rostos e penas pelos corpos e cabelos.

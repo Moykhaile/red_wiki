@@ -3,6 +3,7 @@ nomeM: Khajiit
 nomeF: Khajiit
 tipo: Aberração
 ---
+![[Khajiit.png]]
 **Aumento no Valor de Habilidade.** Devido às suas diversas formas, o aumento no valor de habilidade é inteiramente dependente da sub-raça.
 
 **Idade.** Acredita-se que a vida dos Khajiit seja semelhante à dos humanos normais, enquanto outros acreditam que seja mais parecida com outros tipos de felinos. Eles atingem a idade adulta aos 16 anos e geralmente vivem entre 80 e 150 anos.

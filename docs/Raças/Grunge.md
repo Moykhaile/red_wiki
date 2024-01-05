@@ -3,6 +3,7 @@ nomeM: Grunge
 nomeF: Grunge
 tipo: Aberração
 ---
+![[Grunge.png]]
 **Aumento no Valor de Habilidade.** Seu valor de Destreza aumenta em 2 e seu valor de Constituição aumenta em 1.
 
 **Idade.** Grunges amadurecem para a vida adulta em um único ano, mas são conhecidos por viverem até 50 anos.

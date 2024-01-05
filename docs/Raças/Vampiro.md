@@ -3,6 +3,7 @@ nomeM: Vampiro
 nomeF: Vampira
 tipo: Amaldiçoado
 ---
+![[Vampiro.png]]
 **Raça mista.** Esta raça deve ser adicionada a um personagem junto de outra raça, normalmente a humana, para funcionar. Por exemplo, um orc vampiro, ou uma elfa vampira.
 
 **Aumento no Valor de Habilidade.** Seu valor de Carisma aumenta em 2, e seu valor de Inteligência aumenta em 1, além das habilidades de sua raça mista.
