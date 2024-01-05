@@ -3,7 +3,7 @@ nomeM: Khajiit
 nomeF: Khajiit
 tipo: Aberração
 ---
-![Khajiit](Khajiit.png)
+![Khajiit](Khajiit.png){ align=right }
 Os khajiit são como os humanos... exceto que são também como gatos. Gostam de brincar, adoram peixe cru e suas aparências são como as de um humano com características de gato.
 
 As características físicas de felinos que os khajiit herdam são: unhas/garras afiadas que podem retrair em seus dedos, orelhas de gato super alertas, sentido de balanço, oufato e até mesmo podem crescer bigodes de gato. Sua grande maioria tem um porte atlético devido à sua natureza ativa, e podem crescer pelos mais rápido que um humano.

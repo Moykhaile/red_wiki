@@ -3,7 +3,7 @@ nomeM: Reptiliano
 nomeF: Reptiliana
 tipo: Aberração
 ---
-![Reptiliano](Reptiliano.png) 
+![Reptiliano](Reptiliano.png) { align=right }
 Os reptilianos, como o nome indica, possuem características de répteis e, assim, pele escamosa, uma cauda e olhos diferentes do humano. Em sua forma humana possuem pele áspera em algumas áreas como costelas, costas, cauda e interior dos braços, além da região íntima (com exceção de seus órgãos genitais). Não possuem umbigos, seus mamilos podem aparecer e desaparecer de seus corpos, e têm sangue frio porém sentem muito calor no dia-a-dia e preferem poucas roupas.
 Ao se transformarem em sua forma animalesca, suas presas e unhas crescem e formam pontas afiadas, escamas aparecem pelos seus corpos e suas visões melhoram significativamente.
 
