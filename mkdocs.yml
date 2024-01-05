@@ -2,8 +2,7 @@ site_name: obsidian-mkdocs template
 
 theme:
     name: 'material'
-    language:
-      language: pt-BR
+    language: pt-BR
     logo: Logo.png
     favicon: favicon.ico
     features:
