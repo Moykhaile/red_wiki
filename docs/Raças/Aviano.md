@@ -3,11 +3,11 @@ nomeM: Aviano
 nomeF: Aviana
 tipo: Aberração
 ---
-![Aviana](Aviana.png){ align=right }
 Os avianos são pessoas que possuem características de pássaros, tendo, assim, muita diversidade em suas características e habilidades.
 Todos os avianos possuem asas, que variam de acordo com o pássaro que herdam, e podem se transformar, criando um bico no seus rostos e penas pelos corpos e cabelos.
 Os principais pássaros herdados são: beija-flores, papagaios, canários, sabiás e bem-te-vis.
 Os avianos não conseguem explicar a história de suas origens, mas alguns textos em sua língua nativa dizem ser "uma incrível exceção da natureza". 
+![Aviana](Aviana.png){ align=right }
 
 **Aumento no Valor de Habilidade.** Seu valor de Destreza aumenta em 2. 
 

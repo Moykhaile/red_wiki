@@ -5,7 +5,6 @@ tipo: Aberração
 ---
 Os reptilianos, como o nome indica, possuem características de répteis e, assim, pele escamosa, uma cauda e olhos diferentes do humano. Em sua forma humana possuem pele áspera em algumas áreas como costelas, costas, cauda e interior dos braços, além da região íntima (com exceção de seus órgãos genitais). Não possuem umbigos, seus mamilos podem aparecer e desaparecer de seus corpos, e têm sangue frio porém sentem muito calor no dia-a-dia e preferem poucas roupas.
 Ao se transformarem em sua forma animalesca, suas presas e unhas crescem e formam pontas afiadas, escamas aparecem pelos seus corpos e suas visões melhoram significativamente.
-![Reptiliano](Reptiliano.png){ align=right }
 
 **Aumento no Valor de Habilidade.** Seu valor de Destreza aumenta em 2.
 
@@ -48,3 +47,5 @@ Reptilianos com sangue dominante de lagarto herdam algumas das características 
 **Mordida.** Você tem uma mandíbula forte, que pode ser usada para realizar ataques desarmados. Em um acerto, causa 1d4 + modificador de Força de dano perfurante. Você possui proficiência com sua mordida.
 
 **Influência dos Homens-Lagarto.** Você é proficiente em uma habilidade de sua escolha: Percepção, Furtividade ou Sobrevivência.
+
+![Reptiliano](Reptiliano.png)

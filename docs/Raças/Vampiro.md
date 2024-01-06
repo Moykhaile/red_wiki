@@ -4,7 +4,6 @@ nomeF: Vampira
 tipo: Amaldiçoado
 ---
 **Raça mista.** Esta raça deve ser adicionada a um personagem junto de outra raça, normalmente a humana, para funcionar. Por exemplo, um orc vampiro, ou uma elfa vampira.
-![Vampiro](Vampiro.png){ align=right }
 
 **Aumento no Valor de Habilidade.** Seu valor de Carisma aumenta em 2, e seu valor de Inteligência aumenta em 1, além das habilidades de sua raça mista.
 
@@ -31,3 +30,5 @@ tipo: Amaldiçoado
 **Imortal.** Vampiros não levam dano da mesma forma que outras raças, e mesmo podendo ser feridos e incapacitados, só podem ser mortos tendo seus corações perfurados por madeira.
 
 **Fraquezas Vampíricas.** Um vampiro não pode entrar em contato com alho, o sol, não possuem reflexo e uma fraqueza por armas e objetos de metal.
+
+![Vampiro](Vampiro.png)

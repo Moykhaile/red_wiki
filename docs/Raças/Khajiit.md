@@ -6,7 +6,6 @@ tipo: Aberração
 Os khajiit são como os humanos... exceto que são também como gatos. Gostam de brincar, adoram peixe cru e suas aparências são como as de um humano com características de gato.
 
 As características físicas de felinos que os khajiit herdam são: unhas/garras afiadas que podem retrair em seus dedos, orelhas de gato super alertas, sentido de balanço, oufato e até mesmo podem crescer bigodes de gato. Sua grande maioria tem um porte atlético devido à sua natureza ativa, e podem crescer pelos mais rápido que um humano.
-![Khajiit](Khajiit.png){ align=right }
 
 **Aumento no Valor de Habilidade.** Devido às suas diversas formas, o aumento no valor de habilidade é inteiramente dependente da sub-raça.
 
@@ -57,3 +56,5 @@ O Tojay-raht é uma versão maior do Tojay.
 **Aumento no Valor de Habilidade.** Seu valor de Carisma aumenta em 2, e seu valor de Destreza aumenta em 1.
 
 **Tamanho.** A altura dos Tojay está entre 1,37 e 1,8 metros, e seu peso varia entre 45 e 60kg. Seu tamanho é Médio.
+
+![Khajiit](Khajiit.png)
