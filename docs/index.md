@@ -1,11 +1,13 @@
 # Rebelião Em Discórdia
 
-Publish your public notes with MkDocs
+Vocês nasceram e foram criados dentro de Matnnahoma, e seus pais também. Foram treinados e fazem parte do exército do reino, porém nunca lutaram, somente trabalhavam na logística, montando armas, treinando cavalos e afins.
 
-## Hello World!
+Após alguns anos, o tenente do território, Júlio de Alcântara, formou um pelotão cujo objetivo seria explorar territórios do sul e participar ativamente da guerra, lutando contra os humanos e avançando a fronte de Matnnahoma.
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+Vocês devem se conhecer e partir para suas missões, tomando cuidado com as criaturas que existem pelo mundo e com inimigos de guerra.
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+## Raças e Classes extra
+Raças e classes estão sendo adicionadas à aventura, para isso procure em sites de conteúdo homebrew para D&D 5e e envie ao Mestre do jogo. Ele fará uma análise do mundo e das circunstâncias dele além de questões de balanceamento antes de adicionar algo.
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+## Para Jogar
+É necessário responder o questionário de criação de personagem, além de entrar na sala do Tableplop e adicionar seu personagem lá. Ler as regras e entender o mínimo de como funciona o D&D 5e também é importante.

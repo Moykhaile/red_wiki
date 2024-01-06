@@ -3,7 +3,6 @@ nomeM: Grunge
 nomeF: Grunge
 tipo: Aberração
 ---
-![Grunge](Grunge.png){ align=right }
 Grunges são criaturas racionais anfíbias que têm descendência direta dos sapos, podendo inclusive se comunicar com outros anfíbios e até mesmo alguns répteis. São a única raça que não consegue se transformar em humano, e as que sofrem maior preconceito no continente. Algumas espécies de grunge são venenosas, e podem liberar um suco peçonhento pelos poros de suas peles. Possuem vantagem na água e desvantagem em ambientes secos, precisam sempre se hidratar.
 
 **Aumento no Valor de Habilidade.** Seu valor de Destreza aumenta em 2 e seu valor de Constituição aumenta em 1.
@@ -30,3 +29,5 @@ Grunges são criaturas racionais anfíbias que têm descendência direta dos sap
 ### Grunges Vermelhos e Roxos
 **Pele Venenosa.** Qualquer criatura que o agarre ou entre em contato direto com sua pele deve ser bem-sucedida em um teste de resistência de Constituição CD 12 ou ficará envenenada por 1 minuto. Uma criatura envenenada que não está mais em contato direto com você pode repetir o teste de resistência no final de cada um de seus turnos, encerrando o efeito consigo mesmo em caso de sucesso.
 Você também pode aplicar esse veneno a qualquer arma perfurante como parte de um ataque com essa arma, embora quando atingir, o veneno reaja de maneira diferente. O alvo deve ser bem-sucedido em um teste de resistência de Constituição CD 12 ou sofrer 2d4 de dano por veneno.
+
+![Grunge](Grunge.png)

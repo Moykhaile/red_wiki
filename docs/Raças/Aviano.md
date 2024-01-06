@@ -7,7 +7,6 @@ Os avianos são pessoas que possuem características de pássaros, tendo, assim,
 Todos os avianos possuem asas, que variam de acordo com o pássaro que herdam, e podem se transformar, criando um bico no seus rostos e penas pelos corpos e cabelos.
 Os principais pássaros herdados são: beija-flores, papagaios, canários, sabiás e bem-te-vis.
 Os avianos não conseguem explicar a história de suas origens, mas alguns textos em sua língua nativa dizem ser "uma incrível exceção da natureza". 
-![Aviana](Aviana.png){ align=right }
 
 **Aumento no Valor de Habilidade.** Seu valor de Destreza aumenta em 2. 
 
@@ -28,3 +27,5 @@ Os avianos não conseguem explicar a história de suas origens, mas alguns texto
 **Aumento do Valor de Habilidade.** Seu valor de Sabedoria aumenta em 2. 
 
 **Olhos de Falcão.** Você tem proficiência na perícia Percepção. Adicionalmente, atacar a longo alcance não impõe desvantagem em suas jogadas de ataque a distancia.
+
+![Aviana](Aviana.png)
