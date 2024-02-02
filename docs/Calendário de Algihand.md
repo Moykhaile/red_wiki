@@ -28,3 +28,6 @@
 	20 dias
 ### Criação
 O calendário foi inventado junto da criação do Antigo Parlamento de Algihand, cerca de 300 anos depois da chegada do povo colonizador das terras não povoadas do continente. Foi baseado nas fases lunares e seu inventor foi um [[Khajiit]] chamado Garod Algisaeem.
+
+### Uso
+Os habitantes de Algihand não se preocupam tanto com datas, e é algo somente mencionado em caso de negócios e entregas. Estritamente referen-se a datas no seguinte formato, 4º de Toisé em 374, ditando o dia, o mês e o ano dessa forma. Expressões comuns como "é o 4º dia", "o 5º dia é amanhã", "nasci em Videnne em 312", e muitas outras podem ser percebidas.
